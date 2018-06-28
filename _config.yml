@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Vijay Veerabadran"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Vijay Veerabadran"
+description              : &description "Ph.D. student in Cognitive Science at UC San Diego"
+url                      : https://vijayvee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "vijayvee_acad.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Vijay Veerabadran"
+  avatar           : "Vijay_Profile.png"
+  bio              : "I am a Ph.D. student at UC San Diego, where I am advised by Dr. Virginia de Sa. My research spans the fields of Computer Vision, Computational Neuroscience, and Artificial Intelligence."
+  location         : "La Jolla, San Diego"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
+  googlescholar    : "https://scholar.google.co.in/citations?user=I6b38LoAAAAJ&hl=en&oi=ao"
+  email            : "vveeraba@ucsd.edu"
+  uri              : https://vijayvee.github.io
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "VijayVeeJ"
   foursquare       :
-  github           : "academicpages"
+  github           : "vijayvee"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : vijayvee
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "vijayvee"
   vine             :
   weibo            :
   xing             :
