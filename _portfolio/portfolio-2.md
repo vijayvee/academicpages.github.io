@@ -10,4 +10,4 @@ date: 2017-03-01
 * I have opensourced my TensorFlow implementation of this project on my GitHub profile in this repository: [Code link](https://github.com/vijayvee/video-captioning)
 * A demo video of my system can be found on YouTube here: [Video link](https://www.youtube.com/watch?v=tmLzgFdI7Xg).
 
-![Alt text](/files/videocap_full.png)
+![Alt text](/files/s2vt.gif)
