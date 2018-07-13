@@ -3,7 +3,6 @@ title: "Automated Continuous Behavioral Monitoring using Inception3D"
 excerpt: "I worked with Dr. Justin Fallon on an automated behavioral monitoring system to complement research in diagnosing neuromotor diseases.
 <br/><br/><img src='/files/acbm.png'>"
 collection: portfolio
-date: 2018-03-01
 ---
 
 * Developed this system capable of automating tons of manual work, right from synchronously recording days of video data of a couple dozen mice, transferring the data efficiently to a compute cluster, and calculating several behavioral statistics using a mix of computer vision and deep learning techniques.
