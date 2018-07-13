@@ -19,7 +19,7 @@
 
 
 
-<title>Automated Continuous Behavioral Monitoring using Inception3D - Vijay Veerabadran</title>
+<title>Generative adversarial text to image synthesis - Vijay Veerabadran</title>
 
 
 
@@ -29,15 +29,15 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Vijay Veerabadran">
-<meta property="og:title" content="Automated Continuous Behavioral Monitoring using Inception3D">
+<meta property="og:title" content="Generative adversarial text to image synthesis">
 
 
-  <link rel="canonical" href="http://localhost:4000/portfolio/b_acbm/">
-  <meta property="og:url" content="http://localhost:4000/portfolio/b_acbm/">
+  <link rel="canonical" href="http://localhost:4000/portfolio/d_t2i/">
+  <meta property="og:url" content="http://localhost:4000/portfolio/d_t2i/">
 
 
 
-  <meta property="og:description" content="I worked with Dr. Justin Fallon on an automated behavioral monitoring system to complement research in diagnosing neuromotor diseases through video analysis using deep learning. ">
+  <meta property="og:description" content="I implemented a conditional GAN that generates images of flowers that plausibly match the input textual descriptions of the flowers. ">
 
 
 
@@ -272,15 +272,15 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Automated Continuous Behavioral Monitoring using Inception3D">
-    <meta itemprop="description" content="I worked with Dr. Justin Fallon on an automated behavioral monitoring system to complement research in diagnosing neuromotor diseases through video analysis using deep learning. ">
+    <meta itemprop="headline" content="Generative adversarial text to image synthesis">
+    <meta itemprop="description" content="I implemented a conditional GAN that generates images of flowers that plausibly match the input textual descriptions of the flowers. ">
     <meta itemprop="datePublished" content="July 13, 2018">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Automated Continuous Behavioral Monitoring using Inception3D
+          <h1 class="page__title" itemprop="headline">Generative adversarial text to image synthesis
 </h1>
           
         
@@ -297,16 +297,13 @@
 
       <section class="page__content" itemprop="text">
         <ul>
-  <li>Developed this system capable of automating tons of manual work, right from synchronously recording days of video data of a couple dozen mice, transferring the data efficiently to a compute cluster, and calculating several behavioral statistics using a mix of computer vision and deep learning techniques.</li>
-  <li>For the behavior-recognition component, I finetuned Inception3D, a state-of-the-art action recognition model pretrained on the Kinetics dataset to the task of behavior recognition for mice.</li>
-  <li>Obtained a behavior recognition accuracy of 89%, which is a significant boost from the previous model’s accuracy of 79% on a large in-house mouse behavior recognition dataset with 144 hours of video content and 9 different actions/behaviors.</li>
-  <li>I have opensourced my TensorFlow implementation of this project on my GitHub profile in this repository: <a href="https://github.com/vijayvee/behavior-recognition">Code link</a></li>
+  <li>Based on <a href="https://arxiv.org/abs/1605.05396">Reed et al.</a>, I developed a conditional Generative Adversarial Network that takes as input, a natural language description of flowers and generates an image matching the input description.</li>
+  <li>With a few architectural tweaks including using <a href="https://arxiv.org/abs/1506.06726">skip-thought</a> vectors for sentence representations, I successfully trained this model on the <a href="https://drive.google.com/open?id=0B0ywwgffWnLLcms2WWJQRFNSWXM">Oxford-102</a> dataset with sentence descriptions.</li>
+  <li>I have opensourced my TensorFlow implementation of this project on my GitHub profile in this repository: <a href="https://github.com/vijayvee/text-to-image-synthesis">Code link</a></li>
+  <li>I have attached a sample set of results from my model below.</li>
 </ul>
 
-<video width="640" height="480" controls="" autoplay="" loop="">
-  <source src="/files/output_behav.mp4" type="video/mp4" />
-Your browser does not support the video tag.
-</video>
+<p><img src="/files/t2i_2.png" alt="Alt text" /></p>
 
         
       </section>
@@ -327,13 +324,13 @@ Your browser does not support the video tag.
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/portfolio/b_acbm/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/portfolio/d_t2i/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/portfolio/b_acbm/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/portfolio/d_t2i/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://plus.google.com/share?url=http://localhost:4000/portfolio/b_acbm/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+  <a href="https://plus.google.com/share?url=http://localhost:4000/portfolio/d_t2i/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/portfolio/b_acbm/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/portfolio/d_t2i/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -341,12 +338,11 @@ Your browser does not support the video tag.
 
   <nav class="pagination">
     
-      <a href="http://localhost:4000/portfolio/a_hgru/" class="pagination--pager" title="Horizontal Gated Recurrent Units (hGRU)
+      <a href="http://localhost:4000/portfolio/c_s2vt/" class="pagination--pager" title="Automated Video Captioning - Undergraduate thesis
 ">Previous</a>
     
     
-      <a href="http://localhost:4000/portfolio/c_s2vt/" class="pagination--pager" title="Automated Video Captioning - Undergraduate thesis
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 

@@ -1,6 +1,6 @@
 ---
 title: "Horizontal Gated Recurrent Units (hGRU)"
-excerpt: "Developed a novel recurrent unit called the hGRU that complements feedforward neural networks with horizontal spatial connections. <br/><img src='/files/hGRU.png'>"
+excerpt: "I developed a novel recurrent unit called the hGRU that complements feedforward neural networks with horizontal spatial connections. <br/><img src='/files/hGRU.png'>"
 collection: portfolio
 ---
 
