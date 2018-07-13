@@ -1,6 +1,6 @@
 ---
 title: "Automated Continuous Behavioral Monitoring using Inception3D"
-excerpt: "I worked with Dr. Justin Fallon on an automated behavioral monitoring system to complement research in diagnosing neuromotor diseases.
+excerpt: "I worked with Dr. Justin Fallon on an automated behavioral monitoring system to complement research in diagnosing neuromotor diseases through video analysis using deep learning.
 <br/><br/><img src='/files/acbm.png'>"
 collection: portfolio
 ---
