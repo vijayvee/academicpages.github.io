@@ -21,6 +21,6 @@ Following some of my recent work in this domain, I am keen to explore the use of
 I am interested in employing my expertise in deep learning to automate significant amounts of manual work involved in neurology research, in the diagnosis of medical conditions. My prior work in this domain involves automating the diagnosis of Autistic development and neuro-motor disorders (ALS and Frontotemporal Dementia) by harnessing Computer Vision and Deep Learning.
 
 * ### Data efficient deep learning for computer vision:
-Coming from a strong background of computer vision and machine learning, I am always interested in exploring problems at the intersection of these domains. I am particularly interested in developing data-efficient deep learning models for tasks in computer vision. I look forward to exploring the direction of few shot learning during my graduate research.
+Coming from a strong background of computer vision and machine learning, I am interested in exploring problems at the intersection of these domains. My particular focus in this area is on developing data-efficient deep learning models for tasks in computer vision. I look forward to exploring the direction of few shot learning during my graduate research.
 
-Please explore the other different sections of my website to know more about my professional experience. Thanks for stopping by, and I would be glad to hear from you! :) - Vijay
+Please check out the other different sections of my website to know more about my professional experience. Thanks for stopping by, and I would be glad to hear from you! :) - Vijay
