@@ -10,17 +10,16 @@ redirect_from:
 
 Welcome to my website!
 
-I am Vijay Veerabadran, I am currently a Ph.D. student in Cognitive Science at the [Natural Computation Lab](http://www.cogsci.ucsd.edu/~desa/) at the University of California, San Diego.
+I am Vijay Veerabadran, I am a Ph.D. student in Cognitive Science at the University of California, San Diego. I am advised by Dr. Virginia de Sa and am part of the [Natural Computation Lab](http://www.cogsci.ucsd.edu/~desa/).
 
-My research interests span the areas of Computer Vision, Computational Neuroscience, and Artificial Intelligence. I am particularly interested in the following three streams of research:
+My research interest lies in understanding the ability of the human brain in learning supervised tasks from very little data ([unlike state-of-the-art machine learning systems](https://arxiv.org/pdf/1709.01507.pdf)).
 
-* ### Developing biologically plausible models for low-level vision:
-Following some of my recent work in this domain, I am keen to explore the use of Convolutional and Recurrent Neural Networks to model biologically plausible algorithms for low-level computer vision tasks, i.e, tasks that do not require top-down and semantic influences. Some problems of my interest in this area are contour integration and figure ground organization.
+Equally as much, I am interested in understanding its robustness to unstructured stimuli (again, [unlike state-of-the-art machine learning systems](https://techcrunch.com/2018/04/16/want-to-fool-a-computer-vision-system-just-tweak-some-colors/)). I aim to build models that possess these properties to pave way for robust and data-efficient computer vision systems. This leads to the following streams of research I look forward to pursuing:
+
+* ### Modeling components of the primate visual cortex:
+Following some of my recent work in this domain, I am keen to explore the use of Recurrent Convolutional Neural Networks to functionally model components of the primate visual cortex. I believe that studying the gap between human and computer vision systems and modeling components that are missing in the latter will help fulfill my above interests of robust and data efficient computer vision systems.
 
 * ### Deep learning techniques applied to neurology research:
-I am interested in employing my expertise in deep learning to automate significant amounts of manual work involved in neurology research, in the diagnosis of medical conditions. My prior work in this domain involves automating the diagnosis of Autistic development and neuro-motor disorders (ALS and Frontotemporal Dementia) by harnessing Computer Vision and Deep Learning.
+Aside from biologically inspired computer vision, I wish to employ my expertise in deep learning to cut-down on significant (and fatiguing) manual work involved in neurology research in the diagnosis of medical conditions. My prior work in this domain involves automating the diagnosis of autistic development and neuro-motor disorders (ALS and Frontotemporal Dementia) by harnessing Computer Vision and Deep Learning.
 
-* ### Data efficient deep learning for computer vision:
-Coming from a strong background of computer vision and machine learning, I am interested in exploring problems at the intersection of these domains. My particular focus in this area is on developing data-efficient deep learning models for tasks in computer vision. I look forward to exploring the direction of few shot learning during my graduate research.
-
-Please check out the other different sections of my website to know more about my professional experience. Thanks for stopping by, and I would be glad to hear from you! :) - Vijay
+Please check out the other sections of my website to know more about my professional experience so far. Thanks for stopping by, and I would be glad to hear from you! :) - Vijay
