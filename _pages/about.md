@@ -12,7 +12,7 @@ Welcome to my website!
 
 I am Vijay Veerabadran, I am a Ph.D. student in Cognitive Science at the University of California, San Diego. I am advised by Dr. Virginia de Sa and am part of the [Natural Computation Lab](http://www.cogsci.ucsd.edu/~desa/).
 
-My research interest lies in understanding the ability of the human brain in learning supervised tasks from very little data ([unlike state-of-the-art machine learning systems](https://arxiv.org/pdf/1709.01507.pdf)).
+My research interest lies in understanding the ability of the human brain in learning supervised tasks from very little data ([unlike state-of-the-art machine learning systems](https://hackernoon.com/%EF%B8%8F-big-challenge-in-deep-learning-training-data-31a88b97b282)).
 
 Equally as much, I am interested in understanding its robustness to unstructured stimuli (again, [unlike state-of-the-art machine learning systems](https://techcrunch.com/2018/04/16/want-to-fool-a-computer-vision-system-just-tweak-some-colors/)). I aim to build models that possess these properties to pave way for robust and data-efficient computer vision systems. Aligned to this goal, I look forward to pursuing the following streams of research:
 
