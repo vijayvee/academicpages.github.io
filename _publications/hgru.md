@@ -6,7 +6,7 @@ excerpt: 'In this paper, we introduce a novel recurrent computational unit calle
 date: 2018-05-21
 venue: 'Poster at the 32<sub>nd</sub> Conference on Neural Information Processing Systems'
 paperurl: 'https://arxiv.org/abs/1805.08315'
-citation: 'Linsley, D., Kim, J., Veerabadran, V., & Serre, T. (2018). Learning long-range spatial dependencies with horizontal gated-recurrent units. arXiv preprint arXiv:1805.08315.'
+citation: 'Linsley, D., Kim, J., **Veerabadran, V.**, & Serre, T. (2018). Learning long-range spatial dependencies with horizontal gated-recurrent units. arXiv preprint arXiv:1805.08315.'
 ---
 Abstract:
 
