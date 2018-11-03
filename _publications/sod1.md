@@ -6,7 +6,7 @@ excerpt: 'In this poster, we discuss the identification of early behavioral defi
 date: 2018-05-04
 venue: 'Society for Neuroscience'
 paperurl: 'https://www.abstractsonline.com/pp8/#!/4649/presentation/29641'
-citation: '*L. A. MADIGAN<sup>1</sup>, J. PAGE<sup>1</sup>, V. VEERABADRAN<sup>1</sup>, T. SHARMA<sup>1</sup>, J. DOMINOV<sup>2</sup>, T. SERRE<sup>1</sup>, R. H. BROWN<sup>2</sup>, J. R. FALLON<sup>1</sup>;
+citation: '*L. A. MADIGAN<sup>1</sup>, J. PAGE<sup>1</sup>, <b>V. VEERABADRAN<sup>1</sup></b>, T. SHARMA<sup>1</sup>, J. DOMINOV<sup>2</sup>, T. SERRE<sup>1</sup>, R. H. BROWN<sup>2</sup>, J. R. FALLON<sup>1</sup>;
 <sup>1</sup>Brown Univ., Providence, RI; <sup>2</sup>Univ. of Massachusetts Med. Sch., Worcester, MA. Automated continuous behavioral monitoring and traditional behavioral testing reveal early phenotypes in a novel SOD1-G85R knock-in mouse model of ALS. Program No. 472.22. 2018 Neuroscience Meeting Planner. San Diego, CA: Society for Neuroscience, 2018. Online.
 '
 ---
