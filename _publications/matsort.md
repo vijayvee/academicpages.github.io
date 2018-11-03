@@ -6,7 +6,7 @@ excerpt: 'In this paper, we introduce a novel sorting algorithm that is highly s
 date: 2016-06-18
 venue: 'International Journal of Computer Applications'
 paperurl: 'http://vijayvee.github.io/files/matsort.pdf'
-citation: 'Kavitha, S., Vijay, V., & Saketh, A. B. (2016). Matrix Sort-A Parallelizable Sorting Algorithm. International Journal of Computer Applications, 143(9).'
+citation: 'Kavitha, S., <b>Vijay, V.</b>, & Saketh, A. B. (2016). Matrix Sort-A Parallelizable Sorting Algorithm. International Journal of Computer Applications, 143(9).'
 ---
 Abstract:
 
